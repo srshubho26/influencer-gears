@@ -9,6 +9,7 @@
 
     header nav .menu #search-toggle-checkbox {
         right: 115px;
+        z-index: 4;
     }
 
     header nav .menu form {
@@ -26,6 +27,7 @@
 
     header nav #cart-toggler-checkbox{
         right: 60px;
+        z-index: 4;
     }
 
     header nav #nav-toggler-front{
